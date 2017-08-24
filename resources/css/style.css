@@ -296,7 +296,14 @@ footer span {
 
     .course-small h2 {
         padding: 16px;
+    }
 
+    h1 {
+        font-size: 2rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
     }
 
 }
