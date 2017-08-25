@@ -109,10 +109,12 @@ img {
 
 .start-button {
     text-align: center;
-    margin-top: 32px;
+  
     background-color: #5D5C61;
     border-radius: 8px;
     padding: 16px 32px;
+	margin: 32px 24px 0px 24px;
+
 
 }
 
@@ -273,6 +275,16 @@ footer span {
         align-items: center;
     }
 
+	.banner-info {
+		width: 90%;
+		padding: 0;
+	}
+	
+	.start-button {
+		margin-right: 0;
+		margin-left: 0;
+	}
+	
 
     .info-boxes{
         flex-direction: column;
